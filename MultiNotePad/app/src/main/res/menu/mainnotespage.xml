@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aboutinfo"
+        android:title="Item"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_info_white_48"/>
+    <item
+        android:id="@+id/newnote"
+        android:title="Item"
+        app:showAsAction="always"
+        android:icon="@drawable/baseline_note_add_white_48"/>
+</menu>
